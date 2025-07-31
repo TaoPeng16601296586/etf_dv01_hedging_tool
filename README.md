@@ -208,7 +208,7 @@ streamlit run app/app.py
 
 ---
 
-### 🔧 策略优化方向
+### 策略优化方向
 
 | 方向       | 说明                              |
 | -------- | ------------------------------- |
@@ -239,8 +239,12 @@ streamlit run app/app.py
 * [ ] 构建完整回测热力图，并加入滑动年化收益分析；
 * [ ] 接入 Streamlit 可视化界面作为策略展示页。
 * [ ] 分钟级api数据订单
+* [ ] 做市报价在utils中先生成理论买卖价，然后模拟成交与对冲
 
 ---
 
 
+### 未来的方向
+<img width="3891" height="2226" alt="deepseek_mermaid_20250731_9d00fd" src="https://github.com/user-attachments/assets/33f97d3f-a0e1-4cb8-89b1-ea9d796eeba3" />
+---
 
