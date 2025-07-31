@@ -138,7 +138,7 @@ streamlit run app/app.py
 
 ---
 
-## 价差预测选择
+## 价差预测模型选择
 <img width="1389" height="590" alt="image" src="https://github.com/user-attachments/assets/f1c7f4db-3c4f-47cc-8b2c-fdb6cb5e941f" />
 图表说明：隔日价差变化预测 vs 真实值
 该图展示了模型对每个交易日隔日（T+1）价差变化的预测值（蓝色叉号）与真实观测值（橙色圆点）的对比。横轴为日期，纵轴为价差变化。灰色虚线表示零轴，便于区分正负变化。
