@@ -248,3 +248,9 @@ streamlit run app/app.py
 <img width="3891" height="2226" alt="deepseek_mermaid_20250731_9d00fd" src="https://github.com/user-attachments/assets/33f97d3f-a0e1-4cb8-89b1-ea9d796eeba3" />
 ---
 
+## Disclaimers
+
+This system is intended strictly for educational and research purposes.  
+It is not a substitute for professional financial advice or risk management.  
+Use in live trading environments is not advised without thorough validation.
+
